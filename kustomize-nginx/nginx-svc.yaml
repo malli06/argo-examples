@@ -4,7 +4,7 @@ metadata:
   name: nginx 	
 spec:	
   ports:	
-  - port: 8170	
+  - port: 8o	
     targetPort: 80	
   selector:	
     app: nginx 
